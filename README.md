@@ -4,10 +4,6 @@
  
 <img src="MarioGIF.gif?raw=true" width="200px">
 
-[<img src="https://raw.githubusercontent.com/DavideMangano/DavideMangano/main/MarioGIF.gif" width="200px">]
-
-
-
 <hr>
 
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/DavideMangano)](https://www.facebook.com/davide.mangano.5)

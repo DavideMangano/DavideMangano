@@ -4,7 +4,7 @@
  
 <img src="MarioGIF.gif?raw=true" width="200px">
 
-<img src="https://raw.githubusercontent.com/DavideMangano/DavideMangano/main/MarioGIF.gif" width="200px">
+[<img src="https://raw.githubusercontent.com/DavideMangano/DavideMangano/main/MarioGIF.gif" width="200px">]
 
 
 
